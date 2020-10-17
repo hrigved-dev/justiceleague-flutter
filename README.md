@@ -4,4 +4,4 @@ A flutter application that provides the data of justice league characters and in
 
 ## Gif
 
-![justice_league](Gif/justice_league.gif)
+![justice-league](Gif/justice-league.gif)
